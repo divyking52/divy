@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap');
+
+.logo{
+    width: 168px;
+    height: 79px;
+    border-radius: 100%;
+    cursor: pointer;
+    left: -113px;
+    position: relative;
+}
+ul{
+
+    display: inline-flex;
+}
+body{
+     font-family: 'Lobster', cursive;
+     background-image: url(brushes.jpg);
+     background-color: rgb(0, 0, 0);
+     background-blend-mode: luminosity;
+     position: relative;
+}
+    
+     
+
+.head{
+    box-sizing: border-box;
+   
+    margin: -8px;
+    padding: 0;
+   
+
+}
+li, a,button{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    color: #edf0f1;
+    text-decoration: none;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px 10%;
+}
+.nav-links li{
+    display: inline-block;
+    padding: 0px 20px;
+}
+.nav-links li a{
+    transition: all 0.3s ease 0s;
+
+}
+.nav-links li a:hover{
+    color: #0088a9;
+
+}
+button{
+    padding: 9px 25px;
+    background-color: darkgrey;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    transition: all 0.3s ease 0s; 
+}
+button:hover{
+    background-color: #16fff3;
+   opacity: 75%; text-shadow:
+   0 0 10px rgb(255, 255, 255),
+   0 0 15px rgb(0, 255, 221),
+   0 0 25px rgb(0, 255, 221),
+   0 0 42px rgb(0, 255, 221),
+   0 0 82px rgb(1, 189, 236),
+   0 0 92px  rgb(1, 189, 236),
+   0 0 102px rgb(1, 189, 236),
+   0 0 158px rgb(1, 189, 236);
+
+}
+.heading{
+    color: rgb(48, 48, 48);
+    text-shadow:
+    0 0 7px rgb(255, 255, 255),
+    0 0 10px rgb(0, 255, 221),
+    0 0 21px rgb(0, 255, 221),
+    0 0 42px rgb(0, 255, 221),
+    0 0 82px rgb(1, 189, 236),
+    0 0 92px  rgb(1, 189, 236),
+    0 0 102px rgb(1, 189, 236),
+    0 0 151px rgb(1, 189, 236);
+    left: -69px;
+    position: relative;
+}
+.line{
+    text-align: center;
+    color: whitesmoke;
+    position: relative;
+    top: 39px;
+    text-decoration:  whitesmoke;
+}
+.gyan{
+    text-align: center;
+    color: rgb(153, 252, 255);
+    position: relative;
+    top: 39px;
+    font-size: x-large;
+    font-family: cursive;
+    left: -492px;
+    letter-spacing: 1px;
+    padding: 52px;
+}
+#gyani{
+    top: 30px;
+    position: relative;
+    color: rgb(0, 156, 130);
+}
+#ctr12{
+    top: 30px;
+    position: relative;
+    color: rgb(0, 156, 130);
+}
+
+.gyan2{
+    text-align: center;
+    color: rgb(153, 252, 255);
+    position: relative;
+    top: 39px;
+    font-size: x-large;
+    font-family: cursive;
+    right: -420px;
+    letter-spacing: 1px;
+    padding: 52px;
+}
+
+
+.quote:focus:hover{
+    height: 780px ;
+   
+}
+.gyan2
+{
+    color: #000;
+    text-shadow:
+    0 0 7px rgb(255, 255, 255),
+    0 0 10px rgb(0, 255, 221),
+    0 0 21px rgb(0, 255, 221),
+    0 0 42px rgb(0, 255, 221),
+    0 0 82px rgb(1, 189, 236),
+    0 0 92px  rgb(22, 135, 163),
+    0 0 102px rgb(0, 104, 129),
+    0 0 151px rgb(0, 61, 77);
+}
+
+h3{
+    font-size: xx-large;
+    display: inline-flex;
+    top: 198px;
+    position: relative;
+    left: 134px;
+    text-shadow:
+    0 0 7px rgb(255, 255, 255),
+    0 0 10px rgb(0, 255, 221),
+    0 0 21px rgb(0, 255, 221),
+    0 0 42px rgb(0, 255, 221),
+    0 0 82px rgb(1, 189, 236),
+    0 0 92px  rgb(22, 135, 163),
+    0 0 102px rgb(0, 104, 129),
+    0 0 151px rgb(0, 61, 77);
+}
+.ser1:hover{
+    background-image: url(low.jpg);
+    left:300px;
+    height: 300px;
+    width: 200px;
+    border-radius: 100%;
+
+}
+
+.ser2:hover{
+    background-image: url(paint.jpg);
+    left:300px;
+    height: 300px;
+    width: 200px;
+    border-radius: 100%;
+}
+.ser3:hover{
+    background-image: url(low.jpg);
+    left:300px;
+    height: 300px;
+    width: 200px;
+    border-radius: 100%;
+}
+.ser4:hover{
+    background-image: url(low.jpg);
+    left:300px;
+    height: 300px;
+    width: 200px;
+    border-radius: 100%;
+    box-shadow: #16fff3;
+}
+  
+
+
+
